@@ -1,0 +1,10 @@
+C:\Users\orteg\source\repos\WinFrmCaluladora\bin\Debug\WinFrmCaluladora.exe.config
+C:\Users\orteg\source\repos\WinFrmCaluladora\bin\Debug\WinFrmCaluladora.exe
+C:\Users\orteg\source\repos\WinFrmCaluladora\bin\Debug\WinFrmCaluladora.pdb
+C:\Users\orteg\source\repos\WinFrmCaluladora\obj\Debug\WinFrmCaluladora.csproj.AssemblyReference.cache
+C:\Users\orteg\source\repos\WinFrmCaluladora\obj\Debug\WinFrmCaluladora.Calculadora.resources
+C:\Users\orteg\source\repos\WinFrmCaluladora\obj\Debug\WinFrmCaluladora.Properties.Resources.resources
+C:\Users\orteg\source\repos\WinFrmCaluladora\obj\Debug\WinFrmCaluladora.csproj.GenerateResource.cache
+C:\Users\orteg\source\repos\WinFrmCaluladora\obj\Debug\WinFrmCaluladora.csproj.CoreCompileInputs.cache
+C:\Users\orteg\source\repos\WinFrmCaluladora\obj\Debug\WinFrmCaluladora.exe
+C:\Users\orteg\source\repos\WinFrmCaluladora\obj\Debug\WinFrmCaluladora.pdb
